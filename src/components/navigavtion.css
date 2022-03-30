@@ -1,0 +1,13 @@
+.logo {
+  height: 4rem;
+  margin-top: 8px;
+}
+
+.flexx {
+  display: flex;
+  flex-direction: row;
+}
+
+.color {
+  color: white;
+}
